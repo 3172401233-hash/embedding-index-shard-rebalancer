@@ -1,2 +1,3 @@
-# malicious-beacon-sequence-detector
-检测周期性网络信标链的时序聚类与证据聚合工具
+# embedding-index-shard-rebalancer
+
+规划向量索引分片迁移、副本一致性和查询连续性。
